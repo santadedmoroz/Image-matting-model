@@ -1,5 +1,4 @@
-# DIS5K Object Classification
-
+# DIS5K Object Segmentation
 **Модель UNet++** для сегментации объектов архитектуры и артефактов. [conversation_history:6]
 
 ## Данные
